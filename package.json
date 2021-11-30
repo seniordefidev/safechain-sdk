@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/seniordefidev/safechain-sdk.git",
   "keywords": [
-    "crosswise",
+    "safechain",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
